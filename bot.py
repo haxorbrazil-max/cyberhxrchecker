@@ -5,7 +5,7 @@ from config import BOT_TOKEN,ADMIN_ID
 from database import connect,init_db
 from utils import money_to_cents,money,stock_fields
 from pluspix import create_deposit,check_transaction
-
+u
 def admin(u): return u.effective_user.id==ADMIN_ID
 
 async def start(u,c):
