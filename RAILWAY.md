@@ -8,4 +8,4 @@ DATABASE_PATH=store.db
 
 Start Command: `python bot.py`
 
-O endpoint `(https://api-pluspix.squareweb.app/api/transactions/check)` é consulta de transação; não é presumido como webhook.
+O endpoint `https://api-pluspix.squareweb.app/api/transactions/check` é consulta de transação; não é presumido como webhook.
